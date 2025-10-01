@@ -29,13 +29,6 @@ A professional manual DLL injection tool that uses thread hijacking to inject DL
 - CMake 3.12 or later
 - Windows SDK
 
-### Build Steps
-```bash
-mkdir build
-cd build
-cmake ..
-cmake --build . --config Release
-```
 
 ## Usage
 
